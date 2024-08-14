@@ -48,5 +48,4 @@
   </tr>
 </table>
 
-<p>Dataset:</p>
-  <p><a href="https://www.kaggle.com/datasets/kmader/rsna-bone-age">RSNA Bone Age</a></p>
+<p>Dataset:</p><p><a href="https://www.kaggle.com/datasets/kmader/rsna-bone-age">RSNA Bone Age</a></p>
